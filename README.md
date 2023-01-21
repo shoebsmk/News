@@ -1,7 +1,7 @@
-# News App (See Screenshots folder)
+# News App 
 
 This is an Android News App made while taking Advanced Mobile App Development coursework at DePaul.
-
+(See Screenshots folder)
 App Highlights:
 
 • This app displays current news articles from a wide variety of news sources covering a range of news categories.
