@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="drawer_open">Open drawer</string>
+    <string name="drawer_close">Close drawer</string>
+</resources>
+
+<!--    <?xml version="1.0" encoding="utf-8"?>-->
+<!--<menu xmlns:android="http://schemas.android.com/apk/res/android">-->
+<!--<item-->
+<!--    android:id="@+id/topicsMenu"-->
+<!--    android:title="Topics" />-->
+<!--<item-->
+<!--    android:id="@+id/countriesMenu"-->
+<!--    android:title="Countries" />-->
+<!--<item-->
+<!--    android:id="@+id/languagesMenu"-->
+<!--    android:title="Languages" />-->
+<!--<item-->
+<!--    android:id="@+id/clearAllMenu"-->
+<!--    android:title="Clear All" />-->
+<!--</menu>-->
