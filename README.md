@@ -1,4 +1,4 @@
-# News App (See Screenshots folde)
+# News App (See Screenshots folder)
 
 This is an Android News App made while taking Advanced Mobile App Development coursework at DePaul.
 
