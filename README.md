@@ -2,7 +2,7 @@
 
 This is an Android News App made while taking Advanced Mobile App Development coursework at DePaul.
 
-(See Screenshots folder) -> Screenshots/Screenshots.md
+(See Screenshots folder) -> https://github.com/shoebsmk/News/blob/fb1f0a2ac16560a40cd4679fc5a907e5302cb2f9/Screenshots/Screenshots.md
 
 Video Demo: https://youtu.be/STGlzobQvXg
 
