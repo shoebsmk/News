@@ -1,7 +1,10 @@
 # News App 
 
 This is an Android News App made while taking Advanced Mobile App Development coursework at DePaul.
-(See Screenshots folder)
+
+(See Screenshots folder) -> 
+
+Video Demo: https://youtu.be/STGlzobQvXg
 
 App Highlights:
 
